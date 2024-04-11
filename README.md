@@ -1,5 +1,3 @@
-Certainly! Here's a template for your README file:
-
 ---
 
 # Movie Recommendation System
