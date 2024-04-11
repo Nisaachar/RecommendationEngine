@@ -1,5 +1,3 @@
----
-
 # Movie Recommendation System
 
 ## Overview
@@ -22,28 +20,24 @@ This project implements a comprehensive movie recommendation system utilizing va
 ## Usage
 1. Run the data pipeline script to extract, preprocess, and store movie data:
    ```
-   python data_pipeline.py
+   ETL_Pipeline.ipynb
    ```
-2. Explore different recommendation techniques by running the respective scripts:
+2. Explore different recommendation techniques by going through following jupyter notebooks
    - Knowledge-Based Recommendation:
      ```
-     python knowledge_based_recommendation.py
+     Knowledge_Based_Recommendation.ipynb
      ```
-   - Collaborative-Based Recommendation:
+   - Collaborative & Content Based Recommendation:
      ```
-     python collaborative_based_recommendation.py
-     ```
-   - Content-Based Recommendation:
-     ```
-     python content_based_recommendation.py
+     Collabrative_and_Content_Recommendation.ipynb
      ```
    - Model-Based Recommendation:
      ```
-     python model_based_recommendation.py
+     FunkSVD.ipynb
      ```
 
 ## Data
-The Movietweeting dataset is used for this project, which provides detailed information about movies, user ratings, and reviews. The dataset is publicly available and can be accessed via the GitHub API.
+The Movietweeting dataset is used for this project, which provides detailed information about movies, user ratings, and reviews. The dataset is publicly available and can be accessed via the [MovieTweetings GitHub Repo](https://github.com/sidooms/MovieTweetings).
 
 
 ## Contributing
