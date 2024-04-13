@@ -49,6 +49,8 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 
 ## Contact
-For any questions or feedback, please contact [thhat.guy.is@gmail.com](mailto:thhat.guy.is@gmail.com).
+For any questions or feedback, please contact [thhat.guy.is@gmail.com](mailto:thhat.guy.is@gmail.com)
+
+Feel free to connect with me on LinkedIn [Harsh Sharma](https://www.linkedin.com/in/nisaachar)
 
 ---
